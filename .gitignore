@@ -1,0 +1,23 @@
+# Data files
+Data/
+
+# Outputs
+Output/
+
+# Readme source
+readme_12May23.docx
+
+# Stata temp files
+*.smcl
+*.log
+*.stswp
+
+# R temp files
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
